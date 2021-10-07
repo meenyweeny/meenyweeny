@@ -9,9 +9,9 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenyweeny&layout=compact&theme=dracula)](https://github.com/meenyweeny)
  <hr>
  
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%meenyweeny)](https://hits.seeyoufarm.com) 
  
- ![followers](https://img.shields.io/github/followers/ohbyul?style=social)
+ ![followers](https://img.shields.io/github/followers/meenyweeny?style=social)
  
  </hr>
  
