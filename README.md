@@ -3,11 +3,11 @@
 
  <div align=center> 
  
- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meenyweeny&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenyweeny&layout=compact&theme=dracula)](https://github.com/meenyweeny)
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=meenyweeny&show_icons=true&theme=radical)
  <hr>
  
  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=meenyweeny)](https://solved.ac/meenyweeny)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=meenyweeny)](https://solved.ac/meenyweeny) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenyweeny&layout=compact&theme=dracula)](https://github.com/meenyweeny)
  </hr>
  <hr>
  
