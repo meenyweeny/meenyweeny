@@ -7,7 +7,8 @@
  <hr>
  
  
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=meenyweeny)](https://solved.ac/meenyweeny) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenyweeny&layout=compact&theme=dracula)](https://github.com/meenyweeny)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=meenyweeny)](https://solved.ac/meenyweeny)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meenyweeny&layout=compact&theme=dracula)](https://github.com/meenyweeny)
  </hr>
  <hr>
  
