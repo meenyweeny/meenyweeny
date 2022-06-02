@@ -27,6 +27,8 @@
 ### PS
 
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### Git
 
