@@ -22,7 +22,6 @@
 
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white)
 
 ### PS
 
@@ -40,3 +39,10 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmeye0419@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meenyweeny)
+
+
+### Project
+
+| Titile | Link |
+| --- | --- |
+| 카드나 | ![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white) |
