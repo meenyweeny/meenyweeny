@@ -43,6 +43,4 @@
 
 ### Project
 
-| Titile | Link |
-| --- | --- |
-| 카드나 | ![App Store](https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=app-store&logoColor=white) |
+![Cardna](https://user-images.githubusercontent.com/74659491/173498044-7e4d3a0d-3e3f-4633-9e9a-a6f846def122.png)
