@@ -43,4 +43,4 @@
 
 ### Project
 
-![Cardna](https://user-images.githubusercontent.com/74659491/173498044-7e4d3a0d-3e3f-4633-9e9a-a6f846def122.png)
+[![Cardna](https://user-images.githubusercontent.com/74659491/173498044-7e4d3a0d-3e3f-4633-9e9a-a6f846def122.png)](https://apps.apple.com/kr/app/%EC%B9%B4%EB%93%9C%EB%82%98-%EB%82%98%EB%A5%BC-%EC%95%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%95%B1/id1606195817)
