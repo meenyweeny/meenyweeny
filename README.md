@@ -42,5 +42,3 @@
 
 
 ### Project
-
-[![Cardna](https://user-images.githubusercontent.com/74659491/173498044-7e4d3a0d-3e3f-4633-9e9a-a6f846def122.png)](https://apple.co/3tBqeh5)
