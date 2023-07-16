@@ -2,45 +2,41 @@
 
 # (¯*•.¸,¤°´✿.｡.:* ᴍᴇᴇɴʏᴡᴇᴇɴʏ *.:｡.✿°¤,¸.•*´¯)
 
+INHA UNIV. Computer science Engineering (2018.03 ~ 2023.08)
+
 </div>
 
-𝗜𝗡𝗛𝗔 𝗨𝗡𝗜𝗩. 𝗖𝗦𝗘 (𝟸𝟶𝟷𝟾. 𝟶𝟹 ~)
-
- 𝘀𝘁𝘂𝗱𝘆𝗶𝗻𝗴 𝗶𝗢𝗦
 
 
 
 
-
-
-
-
-### iOS
+### 𝗶𝗢𝗦
 
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
 ![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
 
-### PS
+### 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meenyweeny)](https://solved.ac/meenyweeny/)
 
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### VCS
+### 𝗩𝗲𝗿𝘀𝗶𝗼𝗻 𝗖𝗼𝗻𝘁𝗿𝗼𝗹 𝗦𝘆𝘀𝘁𝗲𝗺
 
 ![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### Contact
+### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmeye0419@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meenyweeny)
 
-### Project
+### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
 [카드나 - 나를 알아가는 앱(AppStore)](https://apple.co/3tBqeh5)
 
