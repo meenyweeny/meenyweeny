@@ -41,3 +41,5 @@ INHA UNIV. Computer science Engineering (2018.03 ~ 2023.08)
 [카드나 - 나를 알아가는 앱(AppStore)](https://apple.co/3tBqeh5)
 
 [Dear today - 시간 여행을 통해 지금의 행복에 대해 생각할 수 있도록 도와주는 스토리텔링 게임 서비스(Github)](https://github.com/TeamDearToday/Deartoday-iOS)
+
+갓취감 - 2022년 2학기 인하대학교 컴퓨터공학과 종합설계 프로젝트
