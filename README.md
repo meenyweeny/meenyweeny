@@ -1,5 +1,4 @@
 
-INHA UNIV. Computer science Engineering (2018.03 ~ 2023.08)
 
 ### 𝗣𝗿𝗼𝗯𝗹𝗲𝗺 𝗦𝗼𝗹𝘃𝗶𝗻𝗴
 
@@ -18,7 +17,6 @@ INHA UNIV. Computer science Engineering (2018.03 ~ 2023.08)
 ### 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kmeye0419@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/meenyweeny)
 
 ### 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
@@ -33,3 +31,10 @@ INHA UNIV. Computer science Engineering (2018.03 ~ 2023.08)
 슈욱 - 2024년 2~4월 삼성 청년 SW 아카데미 특화 프로젝트 (사용자 맞춤형 도서 추천 및 독서 기록 플랫폼)
 
 헬로(Law) - 2024년 4~5월 삼성 청년 SW 아카데미 자율 프로젝트 (누구나 쉽게 질문하고 답변받는 웹 기반 AI 법률 조언 서비스)
+
+
+<div align="right">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeenyweeny&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
